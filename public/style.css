@@ -1,0 +1,132 @@
+.icons-flex i {
+  padding-right: 20px;
+  color: #6E6F72;
+}
+
+.icons-flex{
+  border-bottom: #6E6F72;
+}
+
+.ToppestNavbar{
+  font-size: 18px;
+}
+
+.backgroundImage{
+  background-image: url(Images/Main-slider_pattern.jpg);
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: white;
+  padding: 15px;
+}
+
+.createNft-btn{
+  font-weight: bold;
+  background-image: linear-gradient(to right, #C91C9C , #7172C5);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.display-flex{
+  display: flex;
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 600px) {
+  .display-flex {
+    display: block;
+    width: 100%;
+  }
+ 
+}
+
+@media only screen and (max-width: 600px) {
+  .footerImgDiv{
+    display: block;
+  }
+}
+
+.navbarPadding {
+  padding:15px;
+}
+
+
+.navLink,
+a {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255);
+}
+
+.navLink:hover {
+    color: blue;
+}
+
+
+.activeClassName,
+.activeClassName:hover {
+  color: white;
+}
+
+.NavTheme{
+  color:  black;
+}
+
+.Search-btn{
+  padding: 8px;
+}
+
+.firstImgSize{
+  height: 513.08px;
+  width: 740px;
+}
+
+.discoverSize{
+  font-size: bold;
+  font-size: 60px;
+}
+
+.gradientClass {
+  font-size: 72px;
+  background: -webkit-linear-gradient( #C91C9C , #7172C5);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  
+  font-size: bold;
+  font-size: 60px;
+ 
+}
+
+.footerImgDiv{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.footerImgDiv img{
+  width: 145px;
+  height: auto;
+}
+
+.dark{
+  background-color: black;
+}
+
+.listStyle li{
+  list-style-type: none;
+  margin-left: 0px;
+}
+
+.AboutImgSize{
+  height: 300px;
+  width: auto;
+}
+
+.AboutImgSize img{
+  background-size: contain;
+}
+
+.AboutSec2Img{
+  width: 640px;
+  height: auto;
+}

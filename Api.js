@@ -1,0 +1,1 @@
+// module.exports('https://jsonplaceholder.typicode.com/posts?id=1')
