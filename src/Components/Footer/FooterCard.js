@@ -26,7 +26,7 @@ function FooterCard() {
         <Card.Text>
             <ul className='listStyle'>
                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i> Collectibles</li>
-                <li> <i class="fa fa-angle-double-right" aria-hidden="true"></i> Photography</li>
+                <li> <i class="fa fa-angle-double-right" aria-hidden="true"></i> Photograph</li>
                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i> Trading Cards</li>
                 <li><i class="fa fa-angle-double-right" aria-hidden="true"></i> Virtual Worlds</li>
             </ul>
